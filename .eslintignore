@@ -1,0 +1,12 @@
+# Ignore built files
+dist/
+
+# Ignore coverage files
+node_modules/
+
+# Ignore others
+src/resources
+
+gulpfile.babel.js
+
+build/
